@@ -2,8 +2,8 @@
 Discord bot to play music from youtube
 
 # Usage
-You will have to download the following requirments:
-Download and install Python 3.6
+First, download and install Python 3.6
+Then, you will have to download the following requirments:
 
 ```
 python -m pip install -U youtube_dl
